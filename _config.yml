@@ -40,9 +40,9 @@ about_me_description: description 한글 테스트
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: 
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -65,13 +65,13 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: Portfolio
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+os_projects_title: 
 
 # CONTACT SECTION
 # show_contact_card:
