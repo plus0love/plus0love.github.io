@@ -1,0 +1,59 @@
+title: example.com
+description: "Satellite - jekyll blog theme"
+logo_img: "/assets/img/favicon.webp"
+profile_img: "/assets/img/profile.webp"
+
+# Social Links
+email: byanko55@gmail.com
+github_username: byanko55
+twitter_username: Yankos285288
+instagram_username: instagram
+linkedin_username: linkedin
+facebook_username: facebook
+
+# External API
+giscus_repo: "byanko55/byanko55.github.io"
+giscus_repoId: "R_kgDOLOQWuw"
+giscus_category: "Q&A"
+giscus_categoryId: "DIC_kwDOLOQWu84Cc9jm"
+goatcounter_code: byanko55
+google_analytics: "G-2XXF0SG31P"
+
+# # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                 #
+#   Not recommended to touch the materials below  #
+#                                                 #
+#    Any changes may contribute to malfunction    #
+#                                                 #
+# # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# Build settings
+
+# If you want to deploy Git Page, but choosing the second Installation method (described in README.md)
+# rather than fork, then replace the below line with `remote_theme: byanko55/jekyll-theme-satellite`.
+# Otherwise, DO NOT change it.
+
+# Build settings
+remote_theme: byanko55/jekyll-theme-satellite
+
+exclude:
+  - _posts
+
+collections:
+  pages:
+    output: true
+    permalink: /:path.html
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      date: "1900-01-01"
+
+# Markdown newline activator 
+kramdown:
+  input: GFM
+  hard_wrap: true
