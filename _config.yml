@@ -1,23 +1,23 @@
-title: example.com
-description: "Satellite - jekyll blog theme"
+title: zellokitty.com
+description: "white-hat"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: byanko55@gmail.com
-github_username: byanko55
-twitter_username: Yankos285288
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+email: 2er0.oz1228@gmail.com
+# github_username: byanko55
+# twitter_username: Yankos285288
+# instagram_username: instagram
+# linkedin_username: linkedin
+# facebook_username: facebook
 
 # External API
-giscus_repo: "byanko55/byanko55.github.io"
-giscus_repoId: "R_kgDOLOQWuw"
+giscus_repo: "plus0love/plus0love.github.io"
+giscus_repoId: "R_kgDOO-srYw"
 giscus_category: "Q&A"
-giscus_categoryId: "DIC_kwDOLOQWu84Cc9jm"
-goatcounter_code: byanko55
-google_analytics: "G-2XXF0SG31P"
+giscus_categoryId: "DIC_kwDOO-srY84Cr4eE"
+# goatcounter_code: byanko55
+# google_analytics: "G-2XXF0SG31P"
 
 # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                 #
