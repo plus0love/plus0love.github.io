@@ -1,5 +1,6 @@
 ---
 title: "About"
+nav_title: "About"
 date: "2025-06-23"
 bookmark: true
 ---
