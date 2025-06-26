@@ -1,6 +1,5 @@
 ---
 title: "Archives"
-nav_title: "Archives"
 bookmark: true
 ---
 
