@@ -1,5 +1,6 @@
 ---
 title: "Archives"
+nav_title: "Archives"
 bookmark: true
 ---
 
@@ -40,5 +41,5 @@ bookmark: true
       <p>in Sahmyook University</p>
     </div>
   </div>
-  
+
 </div>
