@@ -6,5 +6,18 @@ bookmark: true
 
 ## About
 
+Hi, I'm ZERO(0).  
+I'm a white-hat hacker specializing in **web and mobile penetration testing**.
+
+My main interests are **web hacking** and **black-box penetration testing**.
+
+This site serves both as my **portfolio** and my **personal blog**.  
+You can find more about me in the **Archives** section below.
+
 - [Go to Archives](https://zellokitty.com/archives.html)
 - 💌 Contact: [2er0.oz1228@gmail.com](mailto:2er0.oz1228@gmail.com)
+
+I live with my adorable poodle, who is part of my family.
+Her name is **“Sarang”** (which means “Love” in Korean).
+If you’re curious, check out the LOVE menu.
+
