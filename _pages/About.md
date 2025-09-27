@@ -7,7 +7,7 @@ bookmark: true
 ## About
 
 Hi, I'm ZERO(0).  
-I'm a white-hat hacker specializing in **web and mobile penetration testing**.
+I'm a **penetration tester**.
 
 My main interests are **web hacking** and **black-box penetration testing**.
 
