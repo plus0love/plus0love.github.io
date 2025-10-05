@@ -29,7 +29,7 @@ bookmark: true
     <div class="timeline-date">2022.07</div>
     <div class="timeline-content">
       <h3>🎖️ Best of the Best(BoB) 11th</h3>
-      <p>양자내성 TLS 프로토콜 개발 프로젝트<br>'TLS 프로토콜 상에서의 양자내성암호 적용 연구 및 방향성 제시' 1저자 논문 작성</p>
+      <p>취약점 분석 트랙<br>양자내성 TLS 프로토콜 개발 프로젝트<br>'TLS 프로토콜 상에서의 양자내성암호 적용 연구 및 방향성 제시' 1저자 논문 작성</p>
     </div>
   </div>
 

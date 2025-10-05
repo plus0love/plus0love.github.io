@@ -14,7 +14,7 @@ My main interests are **web hacking** and **black-box penetration testing**.
 This site serves both as my **portfolio** and my **personal blog**.  
 You can find more about me in the **Archives** section below.
 
-- [Go to Archives](https://zellokitty.com/archives.html)
+- [Go to Archives](https://zellokitty.com/Archives.html)
 - 💌 Contact: [2er0.oz1228@gmail.com](mailto:2er0.oz1228@gmail.com)
 
 I live with my adorable poodle, who is part of my family.
